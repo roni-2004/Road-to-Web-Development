@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Trispace:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&display=swap');
+
+.main{
+    background-image: url("Images/space.jpg");
+    background-size:cover;
+    padding: 5px 0 500px 0;
+    
+}
+
+body{
+    color:white;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Trispace;
+    margin:0%;
+    text-shadow: 2px 2px 2px black;
+    background: black;
+    
+}
+.btn{
+    padding:5px 10px;
+    background:#80CFFF;
+    border: none;
+    font-family: Space Grotesk;
+}
+
+.ctr{
+    color:#43B5FA;
+    border-bottom: 3px solid white;
+}
+
+#logo{
+    width: 200px;
+}
+
+.bottomtext{
+    color: #43B5FA;
+    text-shadow: none;
+
+}
