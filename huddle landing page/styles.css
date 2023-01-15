@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 body{
     background-color:#6648B1;
     background-image: url("images/bg-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
 }
 
 .navbar{
@@ -8,4 +14,56 @@ body{
     padding-left: 60px;
     padding-top: 30px;
     color: white;
+}
+
+
+
+.main{
+    display: flex;
+    
+}
+
+.illustration{
+    padding-top: 80px;
+    width: 1200px;
+    padding-left: 50px;
+
+}
+
+.content{
+    padding-top: 100px;
+    padding-left: 30px;
+    margin-right: 100px;
+    margin-left: 30px;
+
+    
+    color: white;
+    font-family: Open Sans;
+    
+}
+
+.heading{
+    
+    font-size: 45px;
+    
+    font-family: Poppins;
+    padding-right:300px
+    
+}
+
+.btn{
+    background:#e882e8;
+    border: none;
+    color:white;
+    border-radius: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right:50px;
+    font-family: Open Sans;
+}
+
+.para{
+    padding-right: 50px;
+    margin-bottom: 30px;
 }
