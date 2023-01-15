@@ -1,0 +1,11 @@
+body{
+    background-color:#6648B1;
+    background-image: url("images/bg-desktop.svg");
+}
+
+.navbar{
+    text-align: left;
+    padding-left: 60px;
+    padding-top: 30px;
+    color: white;
+}
